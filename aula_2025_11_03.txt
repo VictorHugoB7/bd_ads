@@ -1,0 +1,4 @@
+--- Comandos ---
+SELECT
+CREATE
+DELETE
